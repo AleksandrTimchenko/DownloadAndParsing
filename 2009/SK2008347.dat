@@ -1,0 +1,34 @@
+081213  SODANKYLA       FINLAND      0112 674N 266E100160160S  30E                              SV
+
+
+LT hour    0      1      2      3      4      5      6      7      8      9     10     11
+--------------------------------------------------------------------------------------------------
+
+  F-MIN      C      C      C      C      C      C      C      C      C      C      C      C  F-MIN
+  H-ES       C      C      C      C      C      C      C      C      C      C      C      C  H-ES 
+  FOES       C      C      C      C      C      C      C      C      C      C      C      C  FOES 
+  TYPES                                                                                      TYPES
+  FBES       C      C      C      C      C      C      C      C      C      C      C      C  FBES 
+  H'E        C      C      C      C      C      C      C      C      C      C      C      C  H'E  
+  FOE        C      C      C      C      C      C      C      C      C      C      C      C  FOE  
+  H'F        C      C      C      C      C      C      C      C      C      C      C      C  H'F  
+  FOF1       C      C      C      C      C      C      C      C      C      C      C      C  FOF1 
+  FOF2       C      C      C      C      C      C      C      C      C      C      C      C  FOF2 
+  FXI        C      C      C      C      C      C      C      C      C      C      C      C  FXI  
+  M3KF2      C      C      C      C      C      C      C      C      C      C      C      C  M3KF2
+
+LT hour   12     13     14     15     16     17     18     19     20     21     22     23
+--------------------------------------------------------------------------------------------------
+
+  F-MIN    8      5      5      6      5      7        B      B    7        B   16        B  F-MIN
+  H-ES    93     91        G   96     93    100        B      B  120        B  113        B  H-ES 
+  FOES    19     21     11EG   17     43     18        B      B   24        B   34        B  FOES 
+  TYPES  R      L             R      L      R                    A             F             TYPES
+  FBES    12     14     11EG   11     11     11        B      B   24AA      B   34AA      B  FBES 
+  H'E        A      A   93        A                    B      B             B             B  H'E  
+  FOE    155        A  112        A                    B      B             B             B  FOE  
+  H'F    196Q  201Q  185Q  174Q  198Q  235MQ      B      B      A      B      A      B  H'F  
+  FOF1                                                 B      B             B             B  FOF1 
+  FOF2    38F   34F   35F   27MF   20F   13MS      B      B      A      B      A      B  FOF2 
+  FXI                                                  B      B             B             B  FXI  
+  M3KF2  390F  380F  408F  385F  394F  351        B      B      A      B      A      B  M3KF2

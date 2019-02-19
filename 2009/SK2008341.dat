@@ -1,0 +1,34 @@
+081207  SODANKYLA       FINLAND      0112 674N 266E100160160S  30E                              SV
+
+
+LT hour    0      1      2      3      4      5      6      7      8      9     10     11
+--------------------------------------------------------------------------------------------------
+
+  F-MIN   11     11     11     11        B      B      B      B      B      B    9      6    F-MIN
+  H-ES   109K  120K  115K  100        B      B      B      B      B      B  100     96    H-ES 
+  FOES    19K   17K   16K   30        B      B      B      B      B      B   16     18    FOES 
+  TYPES  K      K      K H    A                                                R      R      TYPES
+  FBES    19K   17K   16K   30AA      B      B      B      B      B      B   15     17EA  FBES 
+  H'E    109K  120K  115K      A      B      B      B      B      B      B      A      A  H'E  
+  FOE    185K  173K  162K      A      B      B      B      B      B      B      A      A  FOE  
+  H'F        A      A      A      A      B      B      B      B      B      B  209Q  207    H'F  
+  FOF1                                   B      B      B      B      B      B                FOF1 
+  FOF2       A      A      A      A      B      B      B      B      B      B   27MF   35F  FOF2 
+  FXI                                    B      B      B      B      B      B                FXI  
+  M3KF2      A      A      A      A      B      B      B      B      B      B  374F  368F  M3KF2
+
+LT hour   12     13     14     15     16     17     18     19     20     21     22     23
+--------------------------------------------------------------------------------------------------
+
+  F-MIN   11     18     11      6     10        B      B    7     13        B      B    7    F-MIN
+  H-ES    93        B      G   95    100        B      B  130        B      B      B  130K  H-ES 
+  FOES    18     18EB   14EG   17     17        B      B   14     13EB      B      B   16K  FOES 
+  TYPES  L      L             L      R                    R                           K      TYPES
+  FBES    16     18EB   14EG   11     13        B      B   14     13EB      B      B   16K  FBES 
+  H'E        A      B   93        A             B      B                    B      B  130K  H'E  
+  FOE        A      B  138        A             B      B                    B      B  164K  FOE  
+  H'F    201    196    196Q  216    268MQ      B      B  253Q  240MS      B      B      A  H'F  
+  FOF1                                          B      B                    B      B         FOF1 
+  FOF2    37F   38MF   35MF   28F      F      B      B   28MR   17MF      B      B      A  FOF2 
+  FXI                                           B      B                    B      B         FXI  
+  M3KF2  366F  386F  373F  352F      F      B      B      R  377F      B      B      A  M3KF2

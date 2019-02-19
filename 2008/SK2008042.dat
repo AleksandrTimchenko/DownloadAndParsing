@@ -1,0 +1,34 @@
+080211  SODANKYLA       FINLAND      0112 674N 266E100160160S  30E                              SV
+
+
+LT hour    0      1      2      3      4      5      6      7      8      9     10     11
+--------------------------------------------------------------------------------------------------
+
+  F-MIN   16     17     13     19        B      B   15     16        B   20     15      9    F-MIN
+  H-ES    93     96 K   95 K  117        B      B  104 K      B      B      B      G      G  H-ES 
+  FOES    56 K   41 K   49 K   41        B      B   20 K   16EB      B   20EB   18EG   19EG  FOES 
+  TYPES  K      K      K2     H                    K                                         TYPES
+  FBES    56 K   41 K   49 K   41AA      B      B   20 K   16EB      B   20EB   18EG   19EG  FBES 
+  H'E     93 K   96 K   95 K                       104 K      B      B      B  115     93    H'E  
+  FOE    560 K  410 K  490 K                       200 K      B      B      B  180    190    FOE  
+  H'F        A      A      A      A      B      B      A      B      B  244    213    209    H'F  
+  FOF1                                                                                260    FOF1 
+  FOF2       A      A      A      A      B      B      A   18        B   30     36     37    FOF2 
+  FXI                                                                                        FXI  
+  M3KF2      A      A      A      A      B      B      A  300        B  349    380    360    M3KF2
+
+LT hour   12     13     14     15     16     17     18     19     20     21     22     23
+--------------------------------------------------------------------------------------------------
+
+  F-MIN   17     22     24     22     25        B    9      7      8      8      8      8    F-MIN
+  H-ES       G      B      B      B      B      B  113    131    107    117    107    106    H-ES 
+  FOES    20EG   22EB   24EB   22EB   25EB      B   18     13     24     17     38     25    FOES 
+  TYPES                                            R      R      R      R      C4     C2     TYPES
+  FBES    20EG   22EB   24EB   22EB   25EB      B   18AA   13AA   24AA   17AA   38AA   25AA  FBES 
+  H'E    113        B      B      B      B      B      A                                     H'E  
+  FOE    200        B      B      B      B      B      A                                     FOE  
+  H'F    203    227    240    222    246        B      A      A      A      A      A      A  H'F  
+  FOF1   240                                                                                 FOF1 
+  FOF2    40     44     41     36     34        B      A      A      A      A      A      A  FOF2 
+  FXI                                                                                        FXI  
+  M3KF2  350    354    348    370    350        B      A      A      A      A      A      A  M3KF2

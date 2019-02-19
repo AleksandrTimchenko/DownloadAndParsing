@@ -1,0 +1,35 @@
+def isfloat(value):
+    try:
+        float(value)
+        return True
+    except ValueError:
+        return False
+
+fname = 'SK2007335.dat'
+data = pd.read_table(fname, skiprows = 15, skipfooter = 16,header = None, index_col=None, sep ='\s+', parse_dates = True)
+N = (len(data.T)-1)*2-2
+N1 = len(data.T)-1
+k=0
+K =  data.T[0]
+fof2 =np.zeros(2*N).reshape(N,2)
+for i in range(0, N1):
+    fof2[k,0] = i
+    if(isfloat(K[i])):
+        fof2[k,1] = K[i]
+    else:
+        fof2[k,1] = 'nan'
+    k=k+1
+#print('fof2:', fof2)
+
+data1 = pd.read_table(fname, skiprows = 31,header = None, index_col=None, sep ='\s+', parse_dates = True)
+N2 = len(data1.T)-2
+n=13
+K2 =  data1.T[0]
+for j in range(1, N2):
+    fof2[n,0] = j+12
+    if(isfloat(K2[j])):
+        fof2[n,1] = K2[j]
+    else:
+        fof2[n,1] = 'nan'
+    n=n+1
+#print('fof2:', fof2)
